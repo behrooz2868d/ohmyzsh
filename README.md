@@ -2,6 +2,7 @@
 
 Oh My Zsh is an open source, community-driven framework for managing your [zsh](https://www.zsh.org/) configuration.
 
+behroooooooooooooooooooooooooooooooooooooooz
 
 Sounds boring. Let's try again.
 
